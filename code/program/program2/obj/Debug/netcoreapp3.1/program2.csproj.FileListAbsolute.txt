@@ -1,0 +1,13 @@
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.exe
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.deps.json
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.runtimeconfig.json
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.runtimeconfig.dev.json
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.dll
+D:\SEDC\C#\class01 - introduction\code\program\program2\bin\Debug\netcoreapp3.1\program2.pdb
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.csprojAssemblyReference.cache
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.AssemblyInfoInputs.cache
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.AssemblyInfo.cs
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.csproj.CoreCompileInputs.cache
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.dll
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.pdb
+D:\SEDC\C#\class01 - introduction\code\program\program2\obj\Debug\netcoreapp3.1\program2.genruntimeconfig.cache
