@@ -24,7 +24,7 @@ namespace AvergeNumber
             bool numCheck3 = int.TryParse(thirdNumber, out num);
             bool numCheck4 = int.TryParse(fourthNumber, out num);
 
-            if (numCheck && numCheck2 && numCheck3 && numCheck4)
+            if (numCheck || numCheck2 || numCheck3 || numCheck4)
             {
 
             int sum = 0;
