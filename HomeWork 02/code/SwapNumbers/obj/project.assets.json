@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC\\C#\\HomeWorks\\homework - 01\\HomeWork 01\\code\\HomeWork 02\\SwapNumbers\\SwapNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 02\\code\\SwapNumbers\\SwapNumbers.csproj",
       "projectName": "SwapNumbers",
-      "projectPath": "D:\\SEDC\\C#\\HomeWorks\\homework - 01\\HomeWork 01\\code\\HomeWork 02\\SwapNumbers\\SwapNumbers.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 02\\code\\SwapNumbers\\SwapNumbers.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC\\C#\\HomeWorks\\homework - 01\\HomeWork 01\\code\\HomeWork 02\\SwapNumbers\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 02\\code\\SwapNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

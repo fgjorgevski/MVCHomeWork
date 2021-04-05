@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.exe
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.deps.json
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.runtimeconfig.json
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.runtimeconfig.dev.json
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.dll
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\bin\Debug\netcoreapp3.1\minutesInSeconds.pdb
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.AssemblyInfo.cs
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.dll
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.pdb
+C:\Users\PC\source\repos\HomeWork 04\minutesInSeconds\obj\Debug\netcoreapp3.1\minutesInSeconds.genruntimeconfig.cache

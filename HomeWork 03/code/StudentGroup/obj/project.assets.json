@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\SumOfEven\\StudentGroup\\StudentGroup.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\StudentGroup\\StudentGroup.csproj",
       "projectName": "StudentGroup",
-      "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\SumOfEven\\StudentGroup\\StudentGroup.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\StudentGroup\\StudentGroup.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\SumOfEven\\StudentGroup\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 03\\code\\StudentGroup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
