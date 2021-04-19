@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\yearsToDays\\yearsToDays.csproj": {}
+    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\yearsToDays\\yearsToDays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\yearsToDays\\yearsToDays.csproj": {
+    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\yearsToDays\\yearsToDays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\yearsToDays\\yearsToDays.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\yearsToDays\\yearsToDays.csproj",
         "projectName": "yearsToDays",
-        "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\yearsToDays\\yearsToDays.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\yearsToDays\\yearsToDays.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\yearsToDays\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\yearsToDays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

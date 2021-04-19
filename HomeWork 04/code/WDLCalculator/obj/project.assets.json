@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\WDLCalculator\\WDLCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\WDLCalculator\\WDLCalculator.csproj",
       "projectName": "WDLCalculator",
-      "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\WDLCalculator\\WDLCalculator.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\WDLCalculator\\WDLCalculator.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\WDLCalculator\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork 04\\code\\WDLCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
