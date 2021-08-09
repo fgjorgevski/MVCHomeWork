@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\bin\Debug\netcoreapp3.1\Entites.deps.json
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\bin\Debug\netcoreapp3.1\Entites.dll
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\bin\Debug\netcoreapp3.1\Entites.pdb
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.csprojAssemblyReference.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfo.cs
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.dll
-C:\Users\PC\Desktop\csharp-seavus\HomeWork 06\Code\CarProjecct\Entites\obj\Debug\netcoreapp3.1\Entites.pdb

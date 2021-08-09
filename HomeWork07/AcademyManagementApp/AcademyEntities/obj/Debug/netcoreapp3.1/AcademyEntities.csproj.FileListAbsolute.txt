@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\bin\Debug\netcoreapp3.1\AcademyEntities.deps.json
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\bin\Debug\netcoreapp3.1\AcademyEntities.dll
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\bin\Debug\netcoreapp3.1\AcademyEntities.pdb
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.csprojAssemblyReference.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.AssemblyInfo.cs
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.dll
-C:\Users\PC\Desktop\csharp-seavus\HomeWork07\AcademyManagementApp\AcademyEntities\obj\Debug\netcoreapp3.1\AcademyEntities.pdb
