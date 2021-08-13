@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork1\\HomeWork1\\HomeWork1.csproj": {}
+    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork1\\HomeWork1\\HomeWork1.csproj": {
+    "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork2\\HomeWork2\\HomeWork2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork1\\HomeWork1\\HomeWork1.csproj",
-        "projectName": "HomeWork1",
-        "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork1\\HomeWork1\\HomeWork1.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+        "projectName": "HomeWork2",
+        "projectPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork1\\HomeWork1\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\csharp-seavus\\HomeWork2\\HomeWork2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

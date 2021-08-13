@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using HomeWork2.Models.Emoloyee
+@using Microsoft.AspNetCore.Http.Features
+@model HomeWork2.Models.Emoloyee.EmployeeDetailsViewModel 
+
+
+<ul>
+    <li>Full name: @Model.FullEmployeeName</li>
+    <li>Position: @Model.Position</li>
+    <li>Date of hire: @Model.DateOfHire June </li>
+    <li>Division name: @Model.DivisionName</li>
+    <li>Salary: @Model.Salary $</li>
+</ul>
